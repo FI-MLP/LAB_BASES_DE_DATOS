@@ -66,7 +66,7 @@ Durante el proceso de inicio de sesión, es muy probable que aparezca la siguien
 ---
 
 ## 1.5. Contenido del reporte
-El informe final a entregar de la práctica debe contar estrictamente con la siguiente estructura y elementos de evaluación[cite: 90, 91, 98]:
+El informe final a entregar de la práctica debe contar estrictamente con la siguiente estructura y elementos de evaluación:
 
 * **a) Portada:** Datos oficiales de la institución, asignatura, número de equipo e integrantes.
 * **b) Descripción de las actividades:** Redacción en prosa de los enunciados de las actividades desarrolladas junto con sus respectivos comentarios personales.
