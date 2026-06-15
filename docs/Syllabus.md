@@ -9,24 +9,6 @@ Este documento contiene los elementos necesarios para el que alumno conozca la i
 
 ---
 
-## Contenido
-1. [Objetivo](##1.-Objetivo) 
-2. [Mapa curricular](##2.-Mapa-curricular) 
-3. [Prácticas a realizar](##3.-Prácticas-a-realizar)
-4. [Software a utilizar](##4.-Software-a-utilizar)
-5. [Contenido de las prácticas](##5.-Contenido-de-las-prácticas)
-6. [Lineamientos](##6.-Lineamientos)
-7. [Lineamientos a considerar](##7.-Lineamientos-a-considerar)
-8. [Sistema de evaluación](##8.-Sistema-de-evaluación)
-9. [Calendario de Practicas Grupo 02.- Día martes](9.Calendario-de-Practicas-Grupo-02.--Día-martes)
-10. [Calendario de Practicas Grupo 07.- Día viernes](##10.--Calendario-de-Practicas-Grupo-07.--Día-viernes) 
-11. [Calendario de Practicas Grupo 08.- Día sábado](##11.--Calendario-de-Practicas-Grupo-08.--Día-sábado)
-12. [Bibliografía](##12.-Bibliografía) 
-    1. [Referencias electrónicas](###Referencias-electrónicas)
-13. [Contacto](##13.-Contacto)
-
----
-
 ## 1. Objetivo
 Esta asignatura tiene como objetivo principal practicar el uso de la tecnología de Bases
 de Datos en la implementación de sistemas de información, así como familiarizarse con
