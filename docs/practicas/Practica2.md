@@ -200,4 +200,4 @@ El reporte deberá contener:
 - Bibliografía (se acepta material proporcionado por la profesora o manual de prácticas).
 - Incluir en el desarrollo las imágenes marcadas como contenido C1, C2, C3, C4, C5, C6 y C7
 
-**Nota:** La práctica se entrega en parejas. En esta práctica para las actividades C2, C3 y C4 entregar imágenes por alumno.
+> 📝 **Nota:** La práctica se entrega en parejas. En esta práctica para las actividades C2, C3 y C4 entregar imágenes por alumno.
