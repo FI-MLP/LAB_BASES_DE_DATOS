@@ -77,8 +77,7 @@ Denominación de la asignatura: Laboratorio de Bases de Datos 1644, sexto semest
     1. Descripción de las actividades de las prácticas (enunciados de las actividades y comentarios personales)
     2. Análisis de resultados
 4. **Conclusiones individuales**
-5. Bibliografía (no se acepta únicamente las clases de la profesora o el manual de prácticas)
-
+5. Bibliografía
 ---
 
 ## 6. Lineamientos
