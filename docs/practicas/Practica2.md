@@ -175,7 +175,7 @@ Draw.io es una aplicación desarrollada por Google que permite realizar una gran
   <img src="/docs/rs/P2Explorador4.png" alt="Explorador 4 Draw.io" width="75%">
 </p>
 
-** C5. Incluir en el reporte ** el o los archivos de los diagramas generados además de la imagen. Ya sea en dia o draw.io.
+**C5. Incluir en el reporte** el o los archivos de los diagramas generados además de la imagen. Ya sea en dia o draw.io.
 
 ## 2.7. Instalación del software de la base de datos
 
