@@ -37,15 +37,25 @@ Deberá conectarse al servidor mediante **Azure Data Studio** utilizando los sig
 
 ### Pasos para realizar la conexión en Azure:
 1. Abrir la herramienta **Azure Data Studio**.
+
+<p align="center">
+  <img src="/docs/rs/P1InicioAzure.png" alt="Azure Data Studio Inicio" width="75%">
+</p>
+
 2. En la pantalla principal, hacer clic en la opción **Create a connection** o seleccionar **New Connection**.
 
 <p align="center">
-  <img src="rs/azure_main.png" alt="Azure Data Studio Inicio" width="75%">
+  <img src="/docs/rs/P1Config.png" alt="Azure Data Studio Inicio" width="75%">
 </p>
 
 3. Configurar el apartado de *Connection Details* ingresando los siguientes parámetros de inicio:
    * **Authentication type:** Seleccionar `SQL Login`.
    * Ingresar el servidor, usuario y contraseña proporcionados arriba.
+  
+<p align="center">
+  <img src="/docs/rs/P1Config12.png" alt="Azure Data Studio Inicio" width="75%">
+</p>
+
 
 ### ⚠️ Posible Error de Conexión (SSL Provider)
 Durante el proceso de inicio de sesión, es muy probable que aparezca la siguiente ventana de alerta de seguridad:
@@ -53,7 +63,7 @@ Durante el proceso de inicio de sesión, es muy probable que aparezca la siguien
 > **Connection error:** *A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - La cadena de certificación fue emitida por una entidad en la que no se confía).*
 
 <p align="center">
-  <img src="rs/connection_error.png" alt="Error de Conexión SSL" width="60%">
+  <img src="/docs/rs/P1Error.png" alt="Error de Conexión SSL" width="60%">
 </p>
 
 * **Solución:** Para mitigar este aviso en el entorno de pruebas del laboratorio, debes hacer clic en el botón azul que dice **Enable Trust server certificate** dentro del cuadro de diálogo o marcar dicha casilla en las propiedades avanzadas de la conexión.
