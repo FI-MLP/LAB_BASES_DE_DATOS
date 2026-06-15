@@ -43,7 +43,7 @@ Deberá conectarse al servidor mediante **Azure Data Studio** utilizando los sig
   <img src="rs/azure_main.png" alt="Azure Data Studio Inicio" width="75%">
 </p>
 
-3. [cite_start]Configurar el apartado de *Connection Details* ingresando los siguientes parámetros de inicio:
+3. Configurar el apartado de *Connection Details* ingresando los siguientes parámetros de inicio:
    * **Authentication type:** Seleccionar `SQL Login`.
    * Ingresar el servidor, usuario y contraseña proporcionados arriba.
 
