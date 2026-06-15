@@ -36,7 +36,10 @@ el diseño, implementación y explotación de las mismas.
 
 ## 2. Mapa curricular
 Denominación de la asignatura: laboratorio de Base de Datos 6644, sexto semestre plan 2023
-![MapaCurricular](docs/rs/mapaCurricular.png)
+
+<p align="center">
+  <img src="rs/mapaCurricular.png" alt="Mapa Curricular" width="60%">
+</p>
 
 ---
 
