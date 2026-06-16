@@ -71,7 +71,7 @@ Durante el proceso de inicio de sesión, es muy probable que aparezca la siguien
 ---
 
 ## 1.4. Tarea
-* [X] Revisar y resolver detalladamente los ejercicios correspondientes al previo de la **Práctica 2**.
+- [X] Revisar y resolver detalladamente los ejercicios correspondientes al previo de la **Práctica 2**.
 
 ---
 
