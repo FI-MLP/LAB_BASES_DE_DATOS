@@ -95,7 +95,7 @@ Para una relación binaria (grado = 2), existen tres tipos:
 
 -  Cardinalidad  uno a  uno.   Un  ejemplar  de la  Entidad  A se  asocia con un  ejemplar  de  una Entidad B y viceversa
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo9.png" alt="Representación" width="%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo9.png" alt="Representación" width="20%"></p>
 
 - Cardinalidad  uno  a  muchos.   Un  ejemplar  de  la  Entidad  A  se  puede  asociar  con  muchos ejemplares de una Entidad B. y un ejemplar de la Entidad B se asocia con un solo ejemplar de la Entidad A
 
@@ -123,14 +123,14 @@ Existen dos tipos de correspondencia:
 Es  un  atributo  o  conjunto  de  atributos  que  identifican  en  forma única  a  una  entidad.  Se  representa  subrayando  el  nombre  del atributo.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo13.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo13.png" alt="Representación" width="70%"></p>
 
 **Clave débil o discriminante.**
 
 Es un atributo en una entidad débil que la identifica junto con la clave primaria de la entidad fuerte. Se representa subrayando en forma discontinua el atributo.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo14.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo14.png" alt="Representación" width="20%"></p>
 
 **Clave candidata o alternativa.**
 
@@ -143,7 +143,7 @@ Son relaciones donde el tipo de relación sólo participa con un único tipo de 
 Una instancia de una entidad A puede asociarse con una o más instancias de la misma entidad.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo15.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo15.png" alt="Representación" width="20%"></p>
 
 ---
 
@@ -163,7 +163,7 @@ La principal ventaja es que esta herramienta es libre y está disponible para di
 1.  Del menú de tipos de diagramas seleccionar la opción ER.  Aparecerá una pantalla similar a la siguiente:
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo16.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo16.png" alt="Representación" width="20%"></p>
 
 2.  Empleando los 5 elementos que se muestran en el menú se puede realizar el diagrama de casos de estudio arrastrando los elementos del diagrama al editor.
 
@@ -171,7 +171,7 @@ La principal ventaja es que esta herramienta es libre y está disponible para di
 3.    Para personalizar o configurar algún elemento basta con hacer clic derecho en el elemento y seleccionar propiedades.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo17.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo17.png" alt="Representación" width="20%"></p>
 
 
 4.  Una  vez  concluido  el  diagrama  se  recomienda  emplear  la  opción  Archivo  →  Exportar seleccionando algún formato de imagen, en especial si se desea incorporar el diagrama en algún otro documento.
