@@ -2,16 +2,18 @@
 
 Repositorio de contenido teórico y práctico de la asignatura de Laboratorio de Bases de Datos. 
 
-**Institución:** Universidad Nacional Autónoma de México - Facultad de Ingeniería \
-**Profesora:** M.I.A. Martha López Pelcastre
-**Alumno:** Leonardo Atilano Velázquez
+**Institución:** Universidad Nacional Autónoma de México - Facultad de Ingeniería.
+
+**Profesora:** M.I.A. Martha López Pelcastre.
+
+**Alumno:** Leonardo Atilano Velázquez.
 
 ---
 
 
 ## Información Institucional y Lineamientos
 Documentación oficial derivada del syllabus del curso:
-* [Syllabus](docs/Syllabus.md) - Syllabus oficial del curso.
+* [Syllabus](docs/Syllabus.md) - Syllabus oficial del curso, se tiene informacion más detallada.
 * [Temario y Software](docs/temario.md) - Objetivos del curso y herramientas obligatorias.
 * [Evaluación y Estructura](docs/evaluacion.md) - Criterios de ponderación y formato de reportes.
 * [Bibliografía](docs/bibliografia.md) - Fuentes de consulta y referencias electrónicas.
