@@ -22,6 +22,8 @@ Es un objeto real o abstracto de interés, sobre el que se recoge información y
 <p align="center">
   <img src="/docs/rs/P4Previo1.png" alt="Recuadro Entidad" width="75%">
 </p>
+<img width="137" height="77" alt="image" src="https://github.com/user-attachments/assets/2a408975-2858-4261-b17c-795e1beb8a8c" />
+
 
 Hay dos tipos de entidades: fuertes y débiles.
 
