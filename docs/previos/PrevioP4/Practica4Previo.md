@@ -46,7 +46,7 @@ En esta práctica se revisa el proceso para realizar el diseño conceptual de un
 Es un objeto real o abstracto de interés, sobre el que se recoge información y se representa gráficamente mediante un rectángulo y su nombre aparece en el interior en mayúsculas y en singular. Un nombre de entidad sólo puede aparecer una vez en el esquema conceptual. Generalmente se expresa con sustantivos.
 
 <p align="center">
-  <img src="/docs/rs/img-Previos/P4Previo1.png" alt="Recuadro Entidad" width="75%">
+  <img src="/docs/rs/img-Previos/P4Previo1.png" alt="Recuadro Entidad" width="">
 </p>
 
 Hay dos tipos de entidades: fuertes y débiles.
@@ -64,7 +64,7 @@ Hay dos tipos de entidades: fuertes y débiles.
 Es una propiedad o característica asociada a una determinada entidad o relación y por lo tanto común a todos los ejemplares de esa entidad. La representación gráfica utilizada es por medio de una elipse etiquetada en letra en minúsculas.
 
 <p align="center">
-  <img src="/docs/rs/img-Previos/P4Previo3.png" alt="Recuadro Entidad" width="75%">
+  <img src="/docs/rs/img-Previos/P4Previo3.png" alt="Recuadro Entidad" width="%">
 </p>
 
 En función de las características respecto de la entidad que definen, se distinguen varios tipos de atributos:
@@ -95,7 +95,7 @@ Para una relación binaria (grado = 2), existen tres tipos:
 
 -  Cardinalidad  uno a  uno.   Un  ejemplar  de la  Entidad  A se  asocia con un  ejemplar  de  una Entidad B y viceversa
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo9.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/img-Previos/P4Previo9.png" alt="Representación" width="%"></p>
 
 - Cardinalidad  uno  a  muchos.   Un  ejemplar  de  la  Entidad  A  se  puede  asociar  con  muchos ejemplares de una Entidad B. y un ejemplar de la Entidad B se asocia con un solo ejemplar de la Entidad A
 
