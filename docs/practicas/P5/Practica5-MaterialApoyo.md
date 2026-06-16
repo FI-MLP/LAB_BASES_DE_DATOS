@@ -402,5 +402,3 @@ En la generación de código SQL, modificar las siguientes opciones (segunda pan
 Finalmente, hacer clic en **"SQL Preview"** para mostrar el código SQL generado.
 
 ---
-
-<p align="center"><b>FI UNAM — Martha López Pelcastre — martha.lopez@ingenieria.unam.edu</b></p>
