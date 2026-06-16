@@ -86,4 +86,4 @@ El informe final a entregar de la práctica debe contar estrictamente con la sig
 > 📝 **Nota:** No olvidar revisar con anticipación y cumplir rigurosamente con los criterios estipulados en la rúbrica de evaluación.
 
 ---
-<p align="center"><b>FI UNAM</b></p>
+
