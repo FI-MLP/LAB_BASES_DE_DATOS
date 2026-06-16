@@ -25,7 +25,6 @@ Aquí tienes la lista manteniendo su numeración original y con los enlaces apli
     - 1.3.3. [Otorgar y remover privilegios a un usuario]()
     - 1.3.4. [Roles]()
   - 1.4. [Ejercicios previos]()
-  - 1.4.1. [Ejercicio1. Contesta las siguientes preguntas]()
 
 ---
 
