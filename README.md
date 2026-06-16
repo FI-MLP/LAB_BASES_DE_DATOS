@@ -19,6 +19,7 @@ Documentación oficial derivada del syllabus del curso:
 ---
 
 
+
 ## Calendario de Prácticas Grupo # .- Día 
 
 | No. | NOMBRE DE LA PRÁCTICA | REALIZA | ENTREGA |
