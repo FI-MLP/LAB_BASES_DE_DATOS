@@ -1,77 +1,50 @@
+
+## Contenido
+
+
 ## 1.1.Antecedentes teóricos
 
-### 1.1.1.  Diseño conceptual y lógico
+  ### 1.1.1.  Diseño conceptual y lógico
 
 El diseño de una base de datos relacional se realiza a través de una metodología formada por las siguientes etapas posterior al levantamiento de requerimientos funciones y no funcionales:
 
 - **Diseño  conceptual.**  En  esta  actividad  se  realiza  la  construcción  de  un  Modelo Entidad/Relación  (Modelo  E/R).    Generalmente se  emplea  la  notación  de  Chen,  el  cual  es considerado como estándar. Este modelo es independiente al tipo de modelo de datos. Por ejemplo, el Modelo E/R, no incluye conceptos del modelo relacional (PKs, FKs, tablas, etc.). Esta independencia permite que un modelo E/R pueda ser implementado en diferentes tipos de modelos de datos.  La implementación más común es su implementación a través de los conceptos del modelo relacional.
 
-- **Diseño lógico.**  En esta actividad se realiza la construcción de un Modelo Relacional el cual implementa  toda  la  teoría  y  conceptos  de  dicho  modelo.    Se  emplean  2  principales notaciones:  Crow’s foot e IDEF1X. En esta práctica se revisa el proceso para realizar el diseño conceptual de una base de datos.  En prácticas posteriores se realizará el diseño lógico.
+- **Diseño lógico.**  En esta actividad se realiza la construcción de un Modelo Relacional el cual implementa  toda  la  teoría  y  conceptos  de  dicho  modelo.    Se  emplean  2  principales notaciones:  Crow’s foot e IDEF1X.
 
-### 1.1.2.  Elementos básicos de un Modelo E/R
+En esta práctica se revisa el proceso para realizar el diseño conceptual de una base de datos. En prácticas posteriores se realizará el diseño lógico.
 
-#### 1.1.2.1 Entidad
+  ### 1.1.2.  Elementos básicos de un Modelo E/R
+
+    #### 1.1.2.1 Entidad
 
 Es un objeto real o abstracto de interés, sobre el que se recoge información y se representa gráficamente mediante un rectángulo y su nombre aparece en el interior en mayúsculas y en singular. Un nombre de entidad sólo puede aparecer una vez en el esquema conceptual. Generalmente se expresa con sustantivos.
+
+<p align="center">
+  <img src="/docs/rs/P4Previo1.png" alt="Recuadro Entidad" width="75%">
+</p>
 
 Hay dos tipos de entidades: fuertes y débiles.
 
 - Una entidad fuerte es una entidad que tiene existencia propia y tiene una clave primaria.
 
-- Una entidad débil es una entidad que no tiene suficientes atributos para formar una clave
+- Una entidad débil es una entidad que no tiene suficientes atributos para formar una clave primaria.  No  puede  existir  sin  su  entidad  fuerte.  Se  representa  gráficamente  por  dos rectángulos concéntricos, la relación de asociación se representa con un doble rombo, su cardinalidad es 1:m.
 
-primaria.  No  puede  existir  sin  su  entidad  fuerte.  Se  representa  gráficamente  por  dos
+      #### 1.1.2.2 Atributo
 
-rectángulos concéntricos, la relación de asociación se representa con un doble rombo, su
+Es una propiedad o característica asociada a una determinada entidad o relación y por lo tanto común a todos los ejemplares de esa entidad. La representación gráfica utilizada es por medio de una elipse etiquetada en letra en minúsculas.
 
-cardinalidad es 1:m.
+En función de las características respecto de la entidad que definen, se distinguen varios tipos de atributos:
 
-1.1.2.2 Atributo
+|Tipo|Descripción|Representación|
+|:----:|:----:|:----:|
+|Normal|Tiene un solo valor||
+|Compuesto|Se dividen en otros atributos||
+|Multivalorado|Tiene un conjunto  de  valores para una entidad concreta. Se representa con doble elipse.||
+|Derivado|Cuando un valor puede calcularse u obtenerse a partir de otro.  ya  sea  de  la  misma  o  de  diferentes  entidades.  Se representa con una elipse con línea discontinua.||
+|Opcional|Son  usados  cuando  es  posible  desconocer  el  valor  del atributo para cierta entidad o no se tiene un valor aplicable. Se representa con un línea discontinua entre la  entidad y el atributo.|
 
-Es una propiedad o característica asociada a una determinada entidad o relación
-
-y por lo tanto común a todos los ejemplares de esa entidad. La representación
-
-gráfica utilizada es por medio de una elipse etiquetada en letra en minúsculas.
-
-En función de las características respecto de la entidad que definen, se distinguen varios tipos de
-
-atributos:
-
-Tipo
-
-Descripción
-
-Normal
-
-Tiene un solo valor
-
-Compuesto
-
-Se dividen en otros atributos
-
-Representación
-
-Multivalorado  Tiene  un  conjunto  de  valores      para        una        entidad
-
-concreta.   Se   representa   con doble elipse.
-
-Derivado
-
-Cuando un valor puede calcularse u obtenerse a partir de
-otro.  ya  sea  de  la  misma  o  de  diferentes  entidades.  Se
-representa con una elipse con línea discontinua.
-
-Previo –Práctica 4                                                                                                                                                                          FI UNAM
-
-Opcional
-
-Son  usados  cuando  es  posible  desconocer  el  valor  del
-atributo  para  cierta  entidad  o  no  se  tiene  un  valor
-aplicable. Se representa con un línea discontinua entre la
-entidad y el atributo
-
-1.1.2.3 Relación
+    #### 1.1.2.3 Relación
 
 Es una asociación, vinculación o correspondencia entre entidades. Se representa
 
