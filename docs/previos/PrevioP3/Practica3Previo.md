@@ -52,15 +52,15 @@ Cuando se usa la autenticación de SQL Server, los inicios de sesión se crean e
 
 Hay tres políticas de contraseña opcionales disponibles para los inicios de sesión de SQL Server.
 
-• El usuario debe cambiar la contraseña en el próximo inicio de sesión
+- El usuario debe cambiar la contraseña en el próximo inicio de sesión
 
 Requiere que el usuario cambie la contraseña la próxima vez que se conecte. La capacidad de cambiar la contraseña la proporciona SQL Server Management Studio.
 
-• Hacer cumplir la caducidad de la contraseña
+- Hacer cumplir la caducidad de la contraseña
 
 La política de antigüedad máxima de la contraseña de la computadora se aplica para los inicios de sesión de SQL Server.
 
-• Hacer cumplir la política de contraseña
+- Hacer cumplir la política de contraseña
 
 Las políticas de contraseña de Windows de la computadora se aplican para los inicios de sesión de SQL Server. Esto incluye la longitud y la complejidad de la contraseña.
 
@@ -69,11 +69,11 @@ Las políticas de contraseña de Windows de la computadora se aplican para los i
 
 El usuario de la base de datos es la identidad del inicio de sesión cuando está conectado a una base de datos. El usuario de la base de datos puede utilizar el mismo nombre que el inicio de sesión, pero no es necesario.
 
-• Los Logins son asignados a los usuarios
+- Los Logins son asignados a los usuarios
 
-• Los grants se les asignan a los usuarios
+- Los grants se les asignan a los usuarios
 
-• A los usuarios se le asignan sus propios Esquemas(schemas)
+- A los usuarios se le asignan sus propios Esquemas(schemas)
 
 ---
 
@@ -83,19 +83,19 @@ El usuario de la base de datos es la identidad del inicio de sesión cuando est�
 
 Un esquema en un servidor SQL es una colección de objetos de base de datos que se vinculan a un sistema de base de datos. Éste incluye tablas, funciones, vistas e índices. Es un tipo lógico de esquema que aporta una serie de ventajas, por ejemplo:
 
-• Un mismo esquema puede utilizarse en varias bases de datos.
+- Un mismo esquema puede utilizarse en varias bases de datos.
 
-• Los permisos de seguridad pueden proteger objetos de base de datos como tablas e índices.
+- Los permisos de seguridad pueden proteger objetos de base de datos como tablas e índices.
 
-• Es posible transferir la propiedad de los esquemas.
+- Es posible transferir la propiedad de los esquemas.
 
-• Los objetos creados en la base de datos pueden moverse entre esquemas.
+- Los objetos creados en la base de datos pueden moverse entre esquemas.
 
-• Ayuda en el proceso de acceso y manipulación de los objetos de la base de datos.
+- Ayuda en el proceso de acceso y manipulación de los objetos de la base de datos.
 
 #### 1.3.2 Administración de Usuarios
 
-• **Crear login**
+- **Crear login**
 
 De esta forma un usuario de base de datos está integrado por su inicio de sesión y el user en la base de datos
 
@@ -147,7 +147,7 @@ Hacer doble clic sobre cualquier base de datos y obtendremos la siguiente ventan
 
 Esto ocurre porque el login creado tiene acceso al servidor, pero a ninguna base de datos, para ello hay que crear un usuario en alguna base de datos.
 
-• Crear usuarios de base de datos
+- Crear usuarios de base de datos
 
 Sintaxis:
 ```sql
@@ -203,11 +203,11 @@ TO <username> [,<username>,...]
 
 Generalmente existen 2 tipos de privilegios:
 
-• Privilegios a nivel sistema. Permiten realizar acciones que modifican la estructura de la base de datos.
+- Privilegios a nivel sistema. Permiten realizar acciones que modifican la estructura de la base de datos.
 
-• Privilegios a nivel objeto. Permiten el acceso de objetos que pertenecen a un usuario esquema.
+- Privilegios a nivel objeto. Permiten el acceso de objetos que pertenecen a un usuario esquema.
 
-• Asignado privilegios a nivel sistema
+- Asignado privilegios a nivel sistema
 
 ```sql
 GRANT INSERT ON OBJECT::dbo.estudiante --objeto de la bd
@@ -238,7 +238,7 @@ Otro concepto comúnmente empleado en este contexto es el concepto de Rol. Un ro
   <img src="/docs/rs/P3Previo6.png" alt="Creación Usuario" width="75%">
 </p>
 
-• Crear un rol
+- Crear un rol
 
 ```sql
 CREATE ROLE <nombre_rol>
@@ -253,7 +253,7 @@ ALTER ROLE nombre_rol
 }
 ```
 
-• Borrar un rol
+- Borrar un rol
 
 ```sql
 DROP ROLE <nombre_rol>
