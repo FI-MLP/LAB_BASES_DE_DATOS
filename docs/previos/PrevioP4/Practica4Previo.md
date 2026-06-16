@@ -15,8 +15,7 @@ El diseño de una base de datos relacional se realiza a través de una metodolog
 En esta práctica se revisa el proceso para realizar el diseño conceptual de una base de datos. En prácticas posteriores se realizará el diseño lógico.
 
   ### 1.1.2.  Elementos básicos de un Modelo E/R
-
-    #### 1.1.2.1 Entidad
+  #### 1.1.2.1 Entidad
 
 Es un objeto real o abstracto de interés, sobre el que se recoge información y se representa gráficamente mediante un rectángulo y su nombre aparece en el interior en mayúsculas y en singular. Un nombre de entidad sólo puede aparecer una vez en el esquema conceptual. Generalmente se expresa con sustantivos.
 
