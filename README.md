@@ -14,6 +14,8 @@ Repositorio de contenido teórico y práctico de la asignatura de Laboratorio de
 ## Información Institucional y Lineamientos
 Documentación oficial derivada del [syllabus](docs/rs/files/Syllabus.md) del curso:
 
+* [Manual de Practicas](docs/rs/files/Manual%20practicas%20laboratorio%20BD.pdf) - Es  una  guía  de  las  prácticas  que  se  realizarán  en  la  asignatura de Bases de Datos durante el semestre
+
 * [Temario y Software](docs/rs/files/temario.md) - Objetivos del curso y herramientas obligatorias.
 * [Evaluación y Estructura](docs/rs/files/evaluacion.md) - Criterios de ponderación y formato de reportes.
 * [Bibliografía](docs/rs/files/bibliografia.md) - Fuentes de consulta y referencias electrónicas.
