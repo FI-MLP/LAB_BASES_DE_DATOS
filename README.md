@@ -12,11 +12,11 @@ Repositorio de contenido teórico y práctico de la asignatura de Laboratorio de
 
 
 ## Información Institucional y Lineamientos
-Documentación oficial derivada del syllabus del curso:
-* [Syllabus](docs/rs/files/Syllabus.md) - Syllabus oficial del curso, se tiene informacion más detallada.
-* [Temario y Software](docs/temario.md) - Objetivos del curso y herramientas obligatorias.
-* [Evaluación y Estructura](docs/evaluacion.md) - Criterios de ponderación y formato de reportes.
-* [Bibliografía](docs/bibliografia.md) - Fuentes de consulta y referencias electrónicas.
+Documentación oficial derivada del [syllabus](docs/rs/files/Syllabus.md) del curso:
+
+* [Temario y Software](docs/rs/files/temario.md) - Objetivos del curso y herramientas obligatorias.
+* [Evaluación y Estructura](docs/rs/files/evaluacion.md) - Criterios de ponderación y formato de reportes.
+* [Bibliografía](docs/rs/files/bibliografia.md) - Fuentes de consulta y referencias electrónicas.
 
 ---
 
