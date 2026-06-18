@@ -58,7 +58,7 @@ Para la transformación del modelo ER extendido al modelo relacional, considerar
 |:-----:|:-----:|
 |Regla de negocio: un empleado debe tener uno y un solo rol Circulo arriba del triángulo indica restricción total Arco indica restricción de exclusión|<p align="center"><img src="/docs/rs/imgPracticas/DP7-5.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
 ||**Diseño Lógico Notación Crow’s Foot**|
-|Los subtipos heredan la Pk del supertipo. La cruz en el semicírculo determina la exclusividad. El discriminante se modela como char(1). No existe notación para restricción tota|<p align="center"><img src="/docs/rs/imgPracticas/DP7-6" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
+|Los subtipos heredan la Pk del supertipo. La cruz en el semicírculo determina la exclusividad. El discriminante se modela como char(1). No existe notación para restricción tota|<p align="center"><img src="/docs/rs/imgPracticas/DP7-6.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
 ||**Notación IDEF1X**|
 |Se usa una letra “D” (disjoint) para representar exclusión. Para representar restricción total se usan 2 líneas abajo del círculo.|<p align="center"><img src="/docs/rs/imgPracticas/DP7-7.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
 
