@@ -108,9 +108,9 @@ Cada unidad contiene su desarrollo conceptual independiente y un enlace separado
 ### Práctica 2: Entorno de trabajo
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P2/G1/Practica_2_G1.md) | [Practicas-G1](/docs/practicas/P2/G1/) [Previo-G1](/docs/previos/PrevioP2/G1/)
-    * [G2](/docs/practicas/P2/G2/Practica_2_G2.md) | [Practicas-G2](/docs/practicas/P2/G2/) [Previo-G2](/docs/previos/PrevioP2/G2/)
-    * [G3](/docs/practicas/P2/G3/Practica_2_G3.md) | [Practicas-G3](/docs/practicas/P2/G3/) [Previo-G3](/docs/previos/PrevioP2/G3/)
+    * [G1](/docs/practicas/P2/G1/Practica_2_G1.md) | [Practicas-G1](/docs/practicas/P2/G1/Practica_2_G1.md) [Previo-G1](/docs/previos/PrevioP2/G1/Practica2PrevioG1.md)
+    * [G2](/docs/practicas/P2/G2/Practica_2_G2.md) | [Practicas-G2](/docs/practicas/P2/G2/Practica_2_G2.md) [Previo-G2](/docs/previos/PrevioP2/G2/Practica2PrevioG1.md)
+    * [G3](/docs/practicas/P2/G3/Practica_2_G3.md) | [Practicas-G3](/docs/practicas/P2/G3/Practica_2_G3.md) [Previo-G3](/docs/previos/PrevioP2/G3/Practica2PrevioG1.md)
 
 ### Práctica 3: Lenguaje de control de acceso a Datos (DCL)
 * Desarrollo Teórico | Ejercicios
