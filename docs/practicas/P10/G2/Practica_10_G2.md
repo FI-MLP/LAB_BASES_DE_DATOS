@@ -47,29 +47,6 @@ El alumno comprenderá y confirmará el uso del lenguaje SQL para realizar la ad
 7. Insertar 4 precios (históricos precios) para cada inmueble
 8. Insertar 3 servicios para cada inmueble vendido
 
-<p align="center">
-  <img src="/docs/rs/Practica10Imagen1.png" alt="Evidencia actividad 3 - Registro de casa" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica10Imagen2.png" alt="Evidencia actividad 4 - Control de adeudos" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica10Imagen3.png" alt="Evidencia actividad 5 - Eliminar servicio gas natural" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica10Imagen4.png" alt="Evidencia actividad 6 - Insertar pagos" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica10Imagen5.png" alt="Evidencia actividad 7 - Insertar precios históricos" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica10Imagen6.png" alt="Evidencia actividad 8 - Insertar servicios" width="85%">
-</p>
 
 ---
 

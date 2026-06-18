@@ -43,18 +43,6 @@ El alumno pondrá en práctica el uso de los distintos tipos de JOIN, realizará
 8. Obtener departamentos (INNER), sus dueños, venta (INNER), y pagos recibidos (RIGHT).
 9. Monto total de pagos por dueño, solo si superan los $500,000.
 
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen1.png" alt="Evidencia ejercicio A1-A3 JOINs" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen2.png" alt="Evidencia ejercicio A4-A6 JOINs" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen3.png" alt="Evidencia ejercicio A7-A9 JOINs" width="85%">
-</p>
-
 **B. Subconsultas.**
 
 1. Mostrar los inmuebles que se vendieron por un precio mayor al precio de venta del inmueble con clave 8. **Where**
@@ -63,26 +51,12 @@ El alumno pondrá en práctica el uso de los distintos tipos de JOIN, realizará
 4. Obtener una lista de todos los inmuebles (Casas y Deptos) con su ubicación (Calle o Edificio) unificando mediante una tabla derivada.
 5. Obtener las claves de los inmuebles cuyos pagos acumulados sean superiores al precio de venta promedio de los departamentos.
 
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen4.png" alt="Evidencia ejercicio B1-B3 Subconsultas" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen5.png" alt="Evidencia ejercicio B4-B5 Subconsultas" width="85%">
-</p>
 
 **C. Diferentes tipos de vistas.**
 
 1. Mostrar todos los datos de los inmuebles (departamentos y casas), incluyendo los datos de los dueños. Nombre a la vista `vis_Inmuebles`.
 2. Obtener los datos de las ventas de los inmuebles, incluyendo los datos de escrituración si tienes y toda la información de los inmuebles (jerarquía de tipos), incluyendo total pagado y adeudo. Nombre a la vista `vis_ventas`.
 
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen6.png" alt="Evidencia vista vis_Inmuebles" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica13Imagen7.png" alt="Evidencia vista vis_ventas" width="85%">
-</p>
 
 > **Nota:** puede mover el valor de las condiciones si fuera necesario, ya que no se aceptan ejercicios sin resultado (registros) de las consultas
 
