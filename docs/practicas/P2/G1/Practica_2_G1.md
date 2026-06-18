@@ -155,9 +155,7 @@ Draw.io es una aplicación desarrollada por Google que permite realizar una gran
 
 - Seleccionar la categoría Entity Relationship Diagram para crear un nuevo diagrama. Hacer click en “Create
 
-<p align="center">
-  <img src="docs/rs/imgPracticas/P2Explorador2.png" alt="Explorador 2 Draw.io" width="75%">
-</p>
+src="https://github.com/FI-MLP/LAB_BASES_DE_DATOS/blob/main/docs/rs/imgPracticas/P2Explorador1.png"
 
 - Aparecerá una interfaz como la siguiente figura:
 
