@@ -46,7 +46,7 @@ Los principales SGBD incorporan un motor SQL en el Servidor de Base de Datos, as
 ## 6.2 Categorías del SQL
 
 <p align="center">
-  <img src="/docs/rs/P6CategoriaSQL.png" alt="Árbol de categorías SQL" width="70%">
+  <img src="/docs/rs/imgPrevios/DP6-1" alt="Árbol de categorías SQL" width="70%">
 </p>
 
 | Categoría | Nombre completo | Descripción | Instrucciones |
@@ -141,7 +141,7 @@ La definición del tipo de dato y del dominio de los atributos debe reflejar de 
 #### 6.4.2.4 Tipos de datos binarios
 
 <p align="center">
-  <img src="/docs/rs/P6CategoriaSQL.png" alt="Árbol de categorías SQL" width="70%">
+  <img src="/docs/rs/imgPrevios/DP6-2" alt="Árbol de categorías SQL" width="70%">
 </p>
 
 | Tipo | Descripción |
