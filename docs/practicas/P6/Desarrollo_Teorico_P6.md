@@ -140,12 +140,18 @@ La definición del tipo de dato y del dominio de los atributos debe reflejar de 
 
 #### 6.4.2.4 Tipos de datos binarios
 
+<p align="center">
+  <img src="/docs/rs/P6CategoriaSQL.png" alt="Árbol de categorías SQL" width="70%">
+</p>
+
 | Tipo | Descripción |
 |------|-------------|
 | `BINARY` | Longitud fija, hasta 8,000 bytes |
 | `VARBINARY` | Longitud variable, hasta 8,000 bytes. Usa menos espacio en disco que `BINARY` |
 | `VARBINARY(MAX)` | Hasta 2³¹-1 bytes |
 | `IMAGE` | Longitud variable de 0 hasta 2³¹-1 bytes |
+
+
 
 ---
 
