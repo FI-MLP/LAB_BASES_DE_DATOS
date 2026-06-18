@@ -43,12 +43,12 @@ Para la transformación del modelo ER extendido al modelo relacional, considerar
 
 |Generalización no exclusiva – traslape total (OVERLAPPING,TOTAL)|Diseño conceptual|
 |:-----:|:-----:|
-|Regla de negocio: Un empleado debe contar con al menos un rol|<p align="center"><img src="/docs/rs/imgPrevios/DP7-1.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
+|Regla de negocio: Un empleado debe contar con al menos un rol|<p align="center"><img src="/docs/rs/imgPracticas/DP7-1.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
 ||**Diseño Lógico Notación Crow’s Foot**|
-|Regla de negocio: Un empleado debe contar con al menos un rol. Las Pk son heredadas por los subtipos. Se crea una relación para el discriminante vultivalorado|<p align="center"><img src="/docs/rs/imgPrevios/DP7-2.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
-|Uso de banderas para el discriminante multivalorado|<p align="center"><img src="/docs/rs/imgPrevios/DP7-3.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
+|Regla de negocio: Un empleado debe contar con al menos un rol. Las Pk son heredadas por los subtipos. Se crea una relación para el discriminante vultivalorado|<p align="center"><img src="/docs/rs/imgPracticas/DP7-2.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
+|Uso de banderas para el discriminante multivalorado|<p align="center"><img src="/docs/rs/imgPracticas/DP7-3.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
 ||**Notación IDEF1X**|
-|Para indicar traslape se emplea una letra “O” (Overlapping)|<p align="center"><img src="/docs/rs/imgPrevios/DP7-4.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
+|Para indicar traslape se emplea una letra “O” (Overlapping)|<p align="center"><img src="/docs/rs/imgPracticas/DP7-4.png" alt="Generalización no exclusiva - Traslape Total" width="85%"></p>|
 
 ---
 
@@ -56,11 +56,11 @@ Para la transformación del modelo ER extendido al modelo relacional, considerar
 
 |Generalización exclusiva – Excluyente total (Disjoint total)|Diseño conceptual|
 |:-----:|:-----:|
-|Regla de negocio: un empleado debe tener uno y un solo rol Circulo arriba del triángulo indica restricción total Arco indica restricción de exclusión|<p align="center"><img src="/docs/rs/imgPrevios/DP7-5.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
+|Regla de negocio: un empleado debe tener uno y un solo rol Circulo arriba del triángulo indica restricción total Arco indica restricción de exclusión|<p align="center"><img src="/docs/rs/imgPracticas/DP7-5.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
 ||**Diseño Lógico Notación Crow’s Foot**|
-|Los subtipos heredan la Pk del supertipo. La cruz en el semicírculo determina la exclusividad. El discriminante se modela como char(1). No existe notación para restricción tota|<p align="center"><img src="/docs/rs/imgPrevios/DP7-6" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
+|Los subtipos heredan la Pk del supertipo. La cruz en el semicírculo determina la exclusividad. El discriminante se modela como char(1). No existe notación para restricción tota|<p align="center"><img src="/docs/rs/imgPracticas/DP7-6" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
 ||**Notación IDEF1X**|
-|Se usa una letra “D” (disjoint) para representar exclusión. Para representar restricción total se usan 2 líneas abajo del círculo.|<p align="center"><img src="/docs/rs/imgPrevios/DP7-7.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
+|Se usa una letra “D” (disjoint) para representar exclusión. Para representar restricción total se usan 2 líneas abajo del círculo.|<p align="center"><img src="/docs/rs/imgPracticas/DP7-7.png" alt="Generalización exclusiva - Traslape Total" width="85%"></p>|
 
 ---
 
@@ -68,12 +68,12 @@ Para la transformación del modelo ER extendido al modelo relacional, considerar
 
 |Especialización no excluyente – Traslape parcial (Overlaping partial)|Diseño conceptual|
 |:-----:|:-----:|
-|Regla de negocio: Un empleado debe contar con al menos un rol|<p align="center"><img src="/docs/rs/imgPrevios/DP7-8.png" alt="Especialización no exclusiva" width="85%"></p>|
+|Regla de negocio: Un empleado debe contar con al menos un rol|<p align="center"><img src="/docs/rs/imgPracticas/DP7-8.png" alt="Especialización no exclusiva" width="85%"></p>|
 ||**Diseño Lógico Notación Crow’s Foot**|
-|En Crow’s foot el diseño no varia con respecto a una restricción de traslape total, salvo en la relación (0,*)|<p align="center"><img src="/docs/rs/imgPrevios/DP7-9.png" alt="Especialización no exclusiva" width="85%"></p>|
-|Uso de banderas|<p align="center"><img src="/docs/rs/imgPrevios/DP7-10.png" alt="Especialización no exclusiva" width="85%"></p>|
+|En Crow’s foot el diseño no varia con respecto a una restricción de traslape total, salvo en la relación (0,*)|<p align="center"><img src="/docs/rs/imgPracticas/DP7-9.png" alt="Especialización no exclusiva" width="85%"></p>|
+|Uso de banderas|<p align="center"><img src="/docs/rs/imgPracticas/DP7-10.png" alt="Especialización no exclusiva" width="85%"></p>|
 ||**Notación IDEF1X**|
-|En IDEF1X se emplea una sola línea para indicar una restricción parcial. O para indicar overlaping|<p align="center"><img src="/docs/rs/imgPrevios/DP7-11.png" alt="Especialización no exclusiva" width="85%"></p>|
+|En IDEF1X se emplea una sola línea para indicar una restricción parcial. O para indicar overlaping|<p align="center"><img src="/docs/rs/imgPracticas/DP7-11.png" alt="Especialización no exclusiva" width="85%"></p>|
 
 ---
 
@@ -81,11 +81,11 @@ Para la transformación del modelo ER extendido al modelo relacional, considerar
 
 |Especialización excluyente- excluyente parcial (Disjoin partial)|Diseño conceptual|
 |:-----:|:-----:|
-|Regla de negocio: un empleado puede tener uno y un solo rol. Discriminante opcional|<p align="center"><img src="/docs/rs/imgPrevios/DP7-12.png" alt="Especialización exclusiva" width="85%"></p>|
+|Regla de negocio: un empleado puede tener uno y un solo rol. Discriminante opcional|<p align="center"><img src="/docs/rs/imgPracticas/DP7-12.png" alt="Especialización exclusiva" width="85%"></p>|
 ||**Diseño Lógico Notación Crow’s Foot**|
-|El discriminante se define como un atributo opcional (NULL). En crow’s foot no existe notación para restricción excluyente parcial.|<p align="center"><img src="/docs/rs/imgPrevios/DP7-13.png" alt="Especialización exclusiva" width="85%"></p>|
+|El discriminante se define como un atributo opcional (NULL). En crow’s foot no existe notación para restricción excluyente parcial.|<p align="center"><img src="/docs/rs/imgPracticas/DP7-13.png" alt="Especialización exclusiva" width="85%"></p>|
 ||**Notación IDEF1X**|
-|Se usa una línea para indicar restricción parcial D para indicar disjoin|<p align="center"><img src="/docs/rs/imgPrevios/DP7-14.png" alt="Especialización exclusiva" width="85%"></p>|
+|Se usa una línea para indicar restricción parcial D para indicar disjoin|<p align="center"><img src="/docs/rs/imgPracticas/DP7-14.png" alt="Especialización exclusiva" width="85%"></p>|
 
 
 ---
@@ -101,11 +101,11 @@ b) Luego se traduce la **relación de la que participa la agregación**, conside
 #### 1.2.6 Históricos
 
 <p align="center">
-  <img src="/docs/rs/imgPrevios/DP7-15.png" alt="Ejemplo de históricos - Instructor/Alumno/Tipo_Cinta" width="85%">
+  <img src="/docs/rs/imgPracticas/DP7-15.png" alt="Ejemplo de históricos - Instructor/Alumno/Tipo_Cinta" width="85%">
 </p>
 
 <p align="center">
-  <img src="/docs/rs/imgPrevios/DP7-16.png" alt="Ejemplo de históricos - Instructor/Alumno/Tipo_Cinta" width="85%">
+  <img src="/docs/rs/imgPracticas/DP7-16.png" alt="Ejemplo de históricos - Instructor/Alumno/Tipo_Cinta" width="85%">
 </p>
 
 
