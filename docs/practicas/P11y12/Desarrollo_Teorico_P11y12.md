@@ -164,7 +164,7 @@ Las condiciones de búsqueda se agrupan en distintos contrastes: comparación, r
 Calcula y compara los valores de dos expresiones SQL, utilizando los operadores de comparación (`=`, `<>`, `<`, `>`, `<=`, `>=`).
 
 <p align="center">
-  <img src="/docs/rs/img-Practicas/ConsutasCondicionB.png" alt="Consultas con condiciones de búsqueda" width="60%">
+  <img src="/docs/rs/imgPracticas/DP11y12-1.png" alt="Consultas con condiciones de búsqueda" width="60%">
 </p>
 
 
