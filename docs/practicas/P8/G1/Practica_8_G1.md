@@ -60,21 +60,6 @@ La facultad le pide una base de datos para el registro y control de préstamos d
 
 Considere que de los alumnos se requiere registrar también el correo para avisarles un día antes de la fecha de devolución que deben regresar el libro y que en un préstamo pueden llevarse hasta 3 libros
 
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen1.png" alt="Ejercicio 1 - Dependencias funcionales Bibliotecas" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen2.png" alt="Ejercicio 1 - Diagrama de dependencias funcionales" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen3.png" alt="Ejercicio 1 - Normalización hasta 3FN" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen4.png" alt="Ejercicio 1 - Modelo relacional Bibliotecas" width="85%">
-</p>
 
 #### 1.2.2. Ejercicio 2
 
@@ -100,22 +85,6 @@ y de cada competencia en la que participan, el tiempo que hacen en minutos, segu
 | 001-2025 | 10/1/2025 | 5K | 5 KILOMETROS | 874 | ANTONIO | SOTO | toño77@gmail.com | 89:15:00 | 36 | 117 | MEXICO | SI |
 | 001-2025 | 10/1/2025 | 5K | 5 KILOMETROS | 9514 | ROSA | FLORES GARCIA | | 92:10:00 | 29 | 139 | PERU | SI |
 | 001-2025 | 10/1/2025 | 5K | 5 KILOMETROS | 453 | JUAN | MONTES LOPEZ | juan34@gmail.com | 79:45:00 | 14 | 66 | FRANCIA | NO |
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen5.png" alt="Ejercicio 2 - Dependencias funcionales Competencias" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen6.png" alt="Ejercicio 2 - Diagrama de dependencias funcionales" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen7.png" alt="Ejercicio 2 - Normalización hasta 3FN" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica8Imagen8.png" alt="Ejercicio 2 - Modelo relacional Competencias" width="85%">
-</p>
 
 ---
 
