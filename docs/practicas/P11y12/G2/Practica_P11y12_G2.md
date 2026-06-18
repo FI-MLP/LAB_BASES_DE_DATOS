@@ -439,9 +439,7 @@ Llena la siguiente tabla:
 | Análisis | |
 | Imagen | |
 
-<p align="center">
-  <img src="/docs/rs/Practica11y12Imagen3.png" alt="Resultados álgebra relacional ejercicios 1-4" width="85%">
-</p>
+
 
 **B). Conéctese a la base de datos y realice las siguientes consultas:**
 
@@ -495,9 +493,6 @@ Llena la siguiente tabla:
 | Análisis | |
 | Imagen | |
 
-<p align="center">
-  <img src="/docs/rs/Practica11y12Imagen4.png" alt="Resultados consultas básicas ejercicios 1-5" width="85%">
-</p>
 
 **C) Consultas en las que se involucren las sentencias GROUP BY y HAVING, generar conjuntos de datos agrupados por más de una columna.** (ponga alias a las columnas)
 
@@ -551,9 +546,6 @@ Llena la siguiente tabla:
 | Análisis | |
 | Imagen | |
 
-<p align="center">
-  <img src="/docs/rs/Practica11y12Imagen5.png" alt="Resultados GROUP BY y HAVING ejercicios 1-5" width="85%">
-</p>
 
 > **Nota:** puede mover el valor de las condiciones si fuera necesario, ya que no se aceptan ejercicios sin resultado (registros) de las consultas. No mover la condición, solo valores. Si es necesario debe insertar información en las tablas.
 
