@@ -22,6 +22,9 @@
 ## 1.5. Ejercicio Previo
 
 
+<p align="center"><img src="/docs/rs/imgPrevios/P5Previo1.png" alt="Imagen previo 5" width="75%"></p>
+
+
 ---
 
 ### Datos a integrar en el modelo relacional
