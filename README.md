@@ -109,89 +109,89 @@ Cada unidad contiene su desarrollo conceptual independiente y un enlace separado
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/practicas/P2/G1/Practica_2_G1.md) | [Practicas-G1](/docs/practicas/P2/G1/Practica_2_G1.md) [Previo-G1](/docs/previos/PrevioP2/G1/Practica2PrevioG1.md)
-    * [G2](/docs/practicas/P2/G2/Practica_2_G2.md) | [Practicas-G2](/docs/practicas/P2/G2/Practica_2_G2.md) [Previo-G2](/docs/previos/PrevioP2/G2/Practica2PrevioG1.md)
-    * [G3](/docs/practicas/P2/G3/Practica_2_G3.md) | [Practicas-G3](/docs/practicas/P2/G3/Practica_2_G3.md) [Previo-G3](/docs/previos/PrevioP2/G3/Practica2PrevioG1.md)
+    * [G2](/docs/practicas/P2/G2/Practica_2_G2.md) | [Practicas-G2](/docs/practicas/P2/G2/Practica_2_G2.md) [Previo-G2](/docs/previos/PrevioP2/G2/Practica2PrevioG2.md)
+    * [G3](/docs/practicas/P2/G3/Practica_2_G3.md) | [Practicas-G3](/docs/practicas/P2/G3/Practica_2_G3.md) [Previo-G3](/docs/previos/PrevioP2/G3/Practica2PrevioG3.md)
 
 ### Práctica 3: Lenguaje de control de acceso a Datos (DCL)
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/practicas/P3/G1/Practica_3_G1.md) | [Practicas-G1](/docs/practicas/P3/G1/Practica_3_G1.md) [Previo-G1](/docs/previos/PrevioP3/G1/Practica3PrevioG1.md)
-    * [G2](/docs/practicas/P3/G2/Practica_3_G2.md) | [Practicas-G2](/docs/practicas/P3/G2/Practica_3_G1.md) [Previo-G2](/docs/previos/PrevioP3/G2/Practica3PrevioG1.md)
-    * [G3](/docs/practicas/P3/G3/Practica_3_G3.md) | [Practicas-G3](/docs/practicas/P3/G3/Practica_3_G1.md) [Previo-G3](/docs/previos/PrevioP3/G3/Practica3PrevioG1.md)
+    * [G2](/docs/practicas/P3/G2/Practica_3_G2.md) | [Practicas-G2](/docs/practicas/P3/G2/Practica_3_G2.md) [Previo-G2](/docs/previos/PrevioP3/G2/Practica3PrevioG2.md)
+    * [G3](/docs/practicas/P3/G3/Practica_3_G3.md) | [Practicas-G3](/docs/practicas/P3/G3/Practica_3_G3.md) [Previo-G3](/docs/previos/PrevioP3/G3/Practica3PrevioG3.md)
 
 ### Práctica 4: Modelos básicos E/R con notación Chen y herramienta CASE
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/rs/files/Nomenclatura%20modelo%20ER%20y%20ralacional.pdf) | [Practicas-G1](/docs/practicas/P4/G1/Practica_4_G1.md) [Previo-G1](/docs/previos/PrevioP4/G1/Practica4PrevioG1.md)
-    * [G2](/docs/rs/files/Nomenclatura%20modelo%20ER%20y%20ralacional.pdf) | [Practicas-G2](/docs/practicas/P4/G2/Practica_4_G1.md) [Previo-G2](/docs/previos/PrevioP4/G2/Practica4PrevioG1.md)
-    * [G3](/docs/rs/files/Nomenclatura%20modelo%20ER%20y%20ralacional.pdf) | [Practicas-G3](/docs/practicas/P4/G3/Practica_4_G1.md) [Previo-G3](/docs/previos/PrevioP4/G3/Practica4PrevioG1.md)
+    * [G2](/docs/rs/files/Nomenclatura%20modelo%20ER%20y%20ralacional.pdf) | [Practicas-G2](/docs/practicas/P4/G2/Practica_4_G2.md) [Previo-G2](/docs/previos/PrevioP4/G2/Practica4PrevioG2.md)
+    * [G3](/docs/rs/files/Nomenclatura%20modelo%20ER%20y%20ralacional.pdf) | [Practicas-G3](/docs/practicas/P4/G3/Practica_4_G3.md) [Previo-G3](/docs/previos/PrevioP4/G3/Practica4PrevioG3.md)
 
 ### Práctica 5: Diseño básico de modelos relacionales
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/practicas/P5/Desarrollo_Teorico_P5.md) | [Practicas-G1](/docs/practicas/P5/G1/Practica_5_G1.md) [Previo-G1](/docs/previos/PrevioP5/G1/Practica5PrevioG1.md)
-    * [G2](/docs/practicas/P5/Desarrollo_Teorico_P5.md) | [Practicas-G2](/docs/practicas/P5/G2/Practica_5_G1.md) [Previo-G2](/docs/previos/PrevioP5/G2/Practica5PrevioG1.md)
-    * [G3](/docs/practicas/P5/Desarrollo_Teorico_P5.md) | [Practicas-G3](/docs/practicas/P5/G3/Practica_5_G1.md) [Previo-G3](/docs/previos/PrevioP5/G3/Practica5PrevioG1.md)
+    * [G2](/docs/practicas/P5/Desarrollo_Teorico_P5.md) | [Practicas-G2](/docs/practicas/P5/G2/Practica_5_G2.md) [Previo-G2](/docs/previos/PrevioP5/G2/Practica5PrevioG2.md)
+    * [G3](/docs/practicas/P5/Desarrollo_Teorico_P5.md) | [Practicas-G3](/docs/practicas/P5/G3/Practica_5_G3.md) [Previo-G3](/docs/previos/PrevioP5/G3/Practica5PrevioG3.md)
 
 ### Práctica 6: Modelos avanzados E/R con notación Chen
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/practicas/P6/Desarrollo_Teorico_P6.md) | [Practicas-G1](/docs/practicas/P6/G1/Practica_6_G1.md) [Previo-G1](/docs/previos/PrevioP6/G1/Practica6PrevioG1.md)
-    * [G2](/docs/practicas/P6/Desarrollo_Teorico_P6.md) | [Practicas-G2](/docs/practicas/P6/G2/Practica_6_G1.md) [Previo-G2](/docs/previos/PrevioP6/G2/Practica6PrevioG1.md)
-    * [G3](/docs/practicas/P6/Desarrollo_Teorico_P6.md) | [Practicas-G3](/docs/practicas/P6/G3/Practica_6_G1.md) [Previo-G3](/docs/previos/PrevioP6/G3/Practica6PrevioG1.md)
+    * [G2](/docs/practicas/P6/Desarrollo_Teorico_P6.md) | [Practicas-G2](/docs/practicas/P6/G2/Practica_6_G2.md) [Previo-G2](/docs/previos/PrevioP6/G2/Practica6PrevioG2.md)
+    * [G3](/docs/practicas/P6/Desarrollo_Teorico_P6.md) | [Practicas-G3](/docs/practicas/P6/G3/Practica_6_G3.md) [Previo-G3](/docs/previos/PrevioP6/G3/Practica6PrevioG3.md)
 
 ### Práctica 7: Diseño avanzado de modelos relacionales
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/practicas/P7/Desarrollo_Teorico_P7.md) | [Practicas-G1](/docs/practicas/P7/G1/Practica_7_G1.md) [Previo-G1](/docs/previos/PrevioP7/G1/Practica7PrevioG1.md)
-    * [G2](/docs/practicas/P7/Desarrollo_Teorico_P7.md) | [Practicas-G2](/docs/practicas/P7/G2/Practica_7_G1.md) [Previo-G2](/docs/previos/PrevioP7/G2/Practica7PrevioG1.md)
-    * [G3](/docs/practicas/P7/Desarrollo_Teorico_P7.md) | [Practicas-G3](/docs/practicas/P7/G3/Practica_7_G1.md) [Previo-G3](/docs/previos/PrevioP7/G3/Practica7PrevioG1.md)
+    * [G2](/docs/practicas/P7/Desarrollo_Teorico_P7.md) | [Practicas-G2](/docs/practicas/P7/G2/Practica_7_G2.md) [Previo-G2](/docs/previos/PrevioP7/G2/Practica7PrevioG2.md)
+    * [G3](/docs/practicas/P7/Desarrollo_Teorico_P7.md) | [Practicas-G3](/docs/practicas/P7/G3/Practica_7_G3.md) [Previo-G3](/docs/previos/PrevioP7/G3/Practica7PrevioG3.md)
 
 ### Práctica 8: Normalización
 * Desarrollo Teórico | Ejercicios
     
     * [G1](/docs/practicas/P8/Desarrollo_Teorico_P8.md) | [Practicas-G1](/docs/practicas/P8/G1/Practica_8_G1.md) [Previo-G1](/docs/previos/PrevioP8/G1/Practica8PrevioG1.md)
-    * [G2](/docs/practicas/P8/Desarrollo_Teorico_P8.md) | [Practicas-G2](/docs/practicas/P8/G2/Practica_8_G1.md) [Previo-G2](/docs/previos/PrevioP8/G2/Practica8PrevioG1.md)
-    * [G3](/docs/practicas/P8/Desarrollo_Teorico_P8.md) | [Practicas-G3](/docs/practicas/P8/G3/Practica_8_G1.md) [Previo-G3](/docs/previos/PrevioP8/G3/Practica8PrevioG1.md)
+    * [G2](/docs/practicas/P8/Desarrollo_Teorico_P8.md) | [Practicas-G2](/docs/practicas/P8/G2/Practica_8_G2.md) [Previo-G2](/docs/previos/PrevioP8/G2/Practica8PrevioG2.md)
+    * [G3](/docs/practicas/P8/Desarrollo_Teorico_P8.md) | [Practicas-G3](/docs/practicas/P8/G3/Practica_8_G3.md) [Previo-G3](/docs/previos/PrevioP8/G3/Practica8PrevioG3.md)
 
 ### Práctica 9: Lenguaje de definición de datos (DDL)
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P9/Desarrollo_Teorico_P9.md) | [Practicas-G1](/docs/practicas/P9/G1/) [Previo-G1](/docs/previos/PrevioP9/G1/Practica9PrevioG1.md)
-    * [G2](/docs/practicas/P9/Desarrollo_Teorico_P9.md) | [Practicas-G2](/docs/practicas/P9/G2/) [Previo-G2](/docs/previos/PrevioP9/G2/Practica9PrevioG1.md)
-    * [G3](/docs/practicas/P9/Desarrollo_Teorico_P9.md) | [Practicas-G3](/docs/practicas/P9/G3/) [Previo-G3](/docs/previos/PrevioP9/G3/Practica9PrevioG1.md)
+    * [G1](/docs/practicas/P9/Desarrollo_Teorico_P9.md) | [Practicas-G1](/docs/practicas/P9/G1/Practica_9_G1.md) [Previo-G1](/docs/previos/PrevioP9/G1/Practica9PrevioG1.md)
+    * [G2](/docs/practicas/P9/Desarrollo_Teorico_P9.md) | [Practicas-G2](/docs/practicas/P9/G2/Practica_9_G2.md) [Previo-G2](/docs/previos/PrevioP9/G2/Practica9PrevioG2.md)
+    * [G3](/docs/practicas/P9/Desarrollo_Teorico_P9.md) | [Practicas-G3](/docs/practicas/P9/G3/Practica_9_G3.md) [Previo-G3](/docs/previos/PrevioP9/G3/Practica9PrevioG3.md)
 
 ### Práctica 10: Lenguaje de manipulación de datos (DML) y transacciones
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P10/Desarrollo_Teorico_P10.md) | [Practicas-G1](/docs/practicas/P10/G1/) [Previo-G1](/docs/previos/PrevioP10/G1/Practica10PrevioG1.md)
-    * [G2](/docs/practicas/P10/Desarrollo_Teorico_P10.md) | [Practicas-G2](/docs/practicas/P10/G2/) [Previo-G2](/docs/previos/PrevioP10/G2/Practica10PrevioG1.md)
-    * [G3](/docs/practicas/P10/Desarrollo_Teorico_P10.md) | [Practicas-G3](/docs/practicas/P10/G3/) [Previo-G3](/docs/previos/PrevioP10/G3/Practica10PrevioG1.md)
+    * [G1](/docs/practicas/P10/Desarrollo_Teorico_P10.md) | [Practicas-G1](/docs/practicas/P10/G1/Practica_10_G1.md) [Previo-G1](/docs/previos/PrevioP10/G1/Practica10PrevioG1.md)
+    * [G2](/docs/practicas/P10/Desarrollo_Teorico_P10.md) | [Practicas-G2](/docs/practicas/P10/G2/Practica_10_G2.md) [Previo-G2](/docs/previos/PrevioP10/G2/Practica10PrevioG2.md)
+    * [G3](/docs/practicas/P10/Desarrollo_Teorico_P10.md) | [Practicas-G3](/docs/practicas/P10/G3/Practica_10_G3.md) [Previo-G3](/docs/previos/PrevioP10/G3/Practica10PrevioG3.md)
 
 ### Práctica 11: Álgebra relacional y uso de join básico
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G1](/docs/practicas/P11y12/G1/) [Previo-G1](/docs/previos/PrevioP11/G1/Practica11PrevioG1.md)
-    * [G2](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G2](/docs/practicas/P11y12/G2/) [Previo-G2](/docs/previos/PrevioP11/G2/Practica11PrevioG1.md)
-    * [G3](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G3](/docs/practicas/P11y12/G3/) [Previo-G3](/docs/previos/PrevioP11/G3/Practica11PrevioG1.md)
+    * [G1](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G1](/docs/practicas/P11y12/G1/Practica_P11y12_G1.md) [Previo-G1](/docs/previos/PrevioP11/G1/Practica11PrevioG3.md)
+    * [G2](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G2](/docs/practicas/P11y12/G2/Practica_P11y12_G2.md) [Previo-G2](/docs/previos/PrevioP11/G2/Practica11PrevioG2.md)
+    * [G3](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G3](/docs/practicas/P11y12/G3/Practica_P11y12_G3.md) [Previo-G3](/docs/previos/PrevioP11/G3/Practica11PrevioG3.md)
 
 ### Práctica 12: Consultas básicas en SQL y funciones de agregación
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G1](/docs/practicas/P11y12/G1/) [Previo-G1](/docs/previos/PrevioP12/G1/Practica12PrevioG1.md)
-    * [G2](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G2](/docs/practicas/P11y12/G1/) [Previo-G2](/docs/previos/PrevioP12/G2/Practica12PrevioG1.md)
-    * [G3](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G3](/docs/practicas/P11y12/G1/) [Previo-G3](/docs/previos/PrevioP12/G3/Practica12PrevioG1.md)
+    * [G1](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G1](/docs/practicas/P11y12/G1/Practica_P11y12_G1.md) [Previo-G1](/docs/previos/PrevioP12/G1/Practica12PrevioG1.md)
+    * [G2](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G2](/docs/practicas/P11y12/G2/Practica_P11y12_G2.md) [Previo-G2](/docs/previos/PrevioP12/G2/Practica12PrevioG2.md)
+    * [G3](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G3](/docs/practicas/P11y12/G3/Practica_P11y12_G3.md) [Previo-G3](/docs/previos/PrevioP12/G3/Practica12PrevioG3.md)
 
 ### Práctica 13: Tipos de JOIN, subconsultas y vistas
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P13/Desarrollo_Teorico_P13.md) | [Practicas-G1](/docs/practicas/P13/G1/) [Previo-G1](/docs/previos/PrevioP13/G1/Practica13PrevioG1.md)
-    * [G2](/docs/practicas/P13/Desarrollo_Teorico_P13.md) | [Practicas-G2](/docs/practicas/P13/G2/) [Previo-G2](/docs/previos/PrevioP13/G2/Practica13PrevioG2.md)
-    * [G3](/docs/practicas/P13/Desarrollo_Teorico_P13.md) | [Practicas-G3](/docs/practicas/P13/G3/) [Previo-G3](/docs/previos/PrevioP13/G3/Practica13PrevioG3.md)
+    * [G1](/docs/practicas/P13/Desarrollo_Teorico_P13.md) | [Practicas-G1](/docs/practicas/P13/G1/Practica_P13_G1.md) [Previo-G1](/docs/previos/PrevioP13/G1/Practica13PrevioG1.md)
+    * [G2](/docs/practicas/P13/Desarrollo_Teorico_P13.md) | [Practicas-G2](/docs/practicas/P13/G2/Practica_P13_G2.md) [Previo-G2](/docs/previos/PrevioP13/G2/Practica13PrevioG2.md)
+    * [G3](/docs/practicas/P13/Desarrollo_Teorico_P13.md) | [Practicas-G3](/docs/practicas/P13/G3/Practica_P13_G3.md) [Previo-G3](/docs/previos/PrevioP13/G3/Practica13PrevioG3.md)
 
 ### Práctica 14: Programación básica con SQL
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P14/Desarrollo_Teorico_P14.md) | [Practicas-G1](/docs/practicas/P14/G1/) [Previo-G1](/docs/previos/PrevioP14/G1/Practica14PrevioG1.md)
-    * [G2](/docs/practicas/P14/Desarrollo_Teorico_P14.md) | [Practicas-G2](/docs/practicas/P14/G2/) [Previo-G2](/docs/previos/PrevioP14/G2/Practica14PrevioG1.md)
-    * [G3](/docs/practicas/P14/Desarrollo_Teorico_P14.md) | [Practicas-G3](/docs/practicas/P14/G3/) [Previo-G3](/docs/previos/PrevioP14/G3/Practica14PrevioG1.md)
+    * [G1](/docs/practicas/P14/Desarrollo_Teorico_P14.md) | [Practicas-G1](/docs/practicas/P14/G1/Practica_P14_G1.md) [Previo-G1](/docs/previos/PrevioP14/G1/Practica14PrevioG1.md)
+    * [G2](/docs/practicas/P14/Desarrollo_Teorico_P14.md) | [Practicas-G2](/docs/practicas/P14/G2/Practica_P14_G2.md) [Previo-G2](/docs/previos/PrevioP14/G2/Practica14PrevioG1.md)
+    * [G3](/docs/practicas/P14/Desarrollo_Teorico_P14.md) | [Practicas-G3](/docs/practicas/P14/G3/Practica_P14_G3.md) [Previo-G3](/docs/previos/PrevioP14/G3/Practica14PrevioG1.md)
