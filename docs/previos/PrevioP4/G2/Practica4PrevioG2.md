@@ -46,7 +46,7 @@ En esta práctica se revisa el proceso para realizar el diseño conceptual de un
 Es un objeto real o abstracto de interés, sobre el que se recoge información y se representa gráficamente mediante un rectángulo y su nombre aparece en el interior en mayúsculas y en singular. Un nombre de entidad sólo puede aparecer una vez en el esquema conceptual. Generalmente se expresa con sustantivos.
 
 <p align="center">
-  <img src="/docs/rs/img-Previos/P4Previo1.png" alt="Recuadro Entidad" width="">
+  <img src="/docs/rs/imgPrevios/P4Previo1.png" alt="Recuadro Entidad" width="">
 </p>
 
 Hay dos tipos de entidades: fuertes y débiles.
@@ -56,7 +56,7 @@ Hay dos tipos de entidades: fuertes y débiles.
 - Una entidad débil es una entidad que no tiene suficientes atributos para formar una clave primaria.  No  puede  existir  sin  su  entidad  fuerte.  Se  representa  gráficamente  por  dos rectángulos concéntricos, la relación de asociación se representa con un doble rombo, su cardinalidad es 1:m.
 
 <p align="center">
-  <img src="/docs/rs/img-Previos/P4Previo2.png" alt="Recuadro Entidad" width="75%">
+  <img src="/docs/rs/imgPrevios/P4Previo2.png" alt="Recuadro Entidad" width="75%">
 </p>
 
   #### 1.1.2.2 Atributo
@@ -64,18 +64,18 @@ Hay dos tipos de entidades: fuertes y débiles.
 Es una propiedad o característica asociada a una determinada entidad o relación y por lo tanto común a todos los ejemplares de esa entidad. La representación gráfica utilizada es por medio de una elipse etiquetada en letra en minúsculas.
 
 <p align="center">
-  <img src="/docs/rs/img-Previos/P4Previo3.png" alt="Recuadro Entidad" width="%">
+  <img src="/docs/rs/imgPrevios/P4Previo3.png" alt="Recuadro Entidad" width="%">
 </p>
 
 En función de las características respecto de la entidad que definen, se distinguen varios tipos de atributos:
 
 |Tipo|Descripción|Representación|
 |:----:|:----:|:----:|
-|Normal|Tiene un solo valor|<p align="center"><img src="/docs/rs/img-Previos/P4Previo4.png" alt="Representación" width="75%"></p>|
-|Compuesto|Se dividen en otros atributos|<p align="center"><img src="/docs/rs/img-Previos/P4Previo5.png" alt="Representación" width="75%"></p>|
-|Multivalorado|Tiene un conjunto  de  valores para una entidad concreta. Se representa con doble elipse.|<p align="center"><img src="/docs/rs/img-Previos/P4Previo6.png" alt="Representación" width="75%"></p>|
-|Derivado|Cuando un valor puede calcularse u obtenerse a partir de otro.  ya  sea  de  la  misma  o  de  diferentes  entidades.  Se representa con una elipse con línea discontinua.|<p align="center"><img src="/docs/rs/img-Previos/P4Previo7.png" alt="Representación" width="75%"></p>|
-|Opcional|Son  usados  cuando  es  posible  desconocer  el  valor  del atributo para cierta entidad o no se tiene un valor aplicable. Se representa con un línea discontinua entre la  entidad y el atributo.|<p align="center"><img src="/docs/rs/img-Previos/P4Previo8.png" alt="Representación" width="75%"></p>|
+|Normal|Tiene un solo valor|<p align="center"><img src="/docs/rs/imgPrevios/P4Previo4.png" alt="Representación" width="75%"></p>|
+|Compuesto|Se dividen en otros atributos|<p align="center"><img src="/docs/rs/imgPrevios/P4Previo5.png" alt="Representación" width="75%"></p>|
+|Multivalorado|Tiene un conjunto  de  valores para una entidad concreta. Se representa con doble elipse.|<p align="center"><img src="/docs/rs/imgPrevios/P4Previo6.png" alt="Representación" width="75%"></p>|
+|Derivado|Cuando un valor puede calcularse u obtenerse a partir de otro.  ya  sea  de  la  misma  o  de  diferentes  entidades.  Se representa con una elipse con línea discontinua.|<p align="center"><img src="/docs/rs/imgPrevios/P4Previo7.png" alt="Representación" width="75%"></p>|
+|Opcional|Son  usados  cuando  es  posible  desconocer  el  valor  del atributo para cierta entidad o no se tiene un valor aplicable. Se representa con un línea discontinua entre la  entidad y el atributo.|<p align="center"><img src="/docs/rs/imgPrevios/P4Previo8.png" alt="Representación" width="75%"></p>|
 
   #### 1.1.2.3 Relación
 
@@ -95,15 +95,15 @@ Para una relación binaria (grado = 2), existen tres tipos:
 
 -  Cardinalidad  uno a  uno.   Un  ejemplar  de la  Entidad  A se  asocia con un  ejemplar  de  una Entidad B y viceversa
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo9.png" alt="Representación" width="20%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo9.png" alt="Representación" width="20%"></p>
 
 - Cardinalidad  uno  a  muchos.   Un  ejemplar  de  la  Entidad  A  se  puede  asociar  con  muchos ejemplares de una Entidad B. y un ejemplar de la Entidad B se asocia con un solo ejemplar de la Entidad A
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo10.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo10.png" alt="Representación" width="75%"></p>
 
 - Cardinalidad muchos a muchos. Un ejemplar de la Entidad A se puede asociar con muchos ejemplares de una Entidad B y viceversa.
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo11.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo11.png" alt="Representación" width="75%"></p>
 
 Observar que se emplea un punto para indicar el lado m y la flecha siempre apunta al lado 1.
 
@@ -114,7 +114,7 @@ Existen dos tipos de correspondencia:
 - Cardinalidad  máxima.  Indica  el  número  máximo  de  relaciones  en  las  que  puede  aparecer cada ejemplar de la entidad (el valor puede ser uno o muchos)
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo12.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo12.png" alt="Representación" width="75%"></p>
 
   #### 1.1.2.5 Claves
 
@@ -123,14 +123,14 @@ Existen dos tipos de correspondencia:
 Es  un  atributo  o  conjunto  de  atributos  que  identifican  en  forma única  a  una  entidad.  Se  representa  subrayando  el  nombre  del atributo.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo13.png" alt="Representación" width="70%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo13.png" alt="Representación" width="70%"></p>
 
 **Clave débil o discriminante.**
 
 Es un atributo en una entidad débil que la identifica junto con la clave primaria de la entidad fuerte. Se representa subrayando en forma discontinua el atributo.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo14.png" alt="Representación" width="20%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo14.png" alt="Representación" width="20%"></p>
 
 **Clave candidata o alternativa.**
 
@@ -143,7 +143,7 @@ Son relaciones donde el tipo de relación sólo participa con un único tipo de 
 Una instancia de una entidad A puede asociarse con una o más instancias de la misma entidad.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo15.png" alt="Representación" width="20%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo15.png" alt="Representación" width="20%"></p>
 
 ---
 
@@ -163,7 +163,7 @@ La principal ventaja es que esta herramienta es libre y está disponible para di
 1.  Del menú de tipos de diagramas seleccionar la opción ER.  Aparecerá una pantalla similar a la siguiente:
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo16.png" alt="Representación" width="20%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo16.png" alt="Representación" width="20%"></p>
 
 2.  Empleando los 5 elementos que se muestran en el menú se puede realizar el diagrama de casos de estudio arrastrando los elementos del diagrama al editor.
 
@@ -171,7 +171,7 @@ La principal ventaja es que esta herramienta es libre y está disponible para di
 3.    Para personalizar o configurar algún elemento basta con hacer clic derecho en el elemento y seleccionar propiedades.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo17.png" alt="Representación" width="20%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo17.png" alt="Representación" width="20%"></p>
 
 
 4.  Una  vez  concluido  el  diagrama  se  recomienda  emplear  la  opción  Archivo  →  Exportar seleccionando algún formato de imagen, en especial si se desea incorporar el diagrama en algún otro documento.
@@ -187,15 +187,15 @@ Esta herramienta en línea permite crear diagramas de diversas categorías. Draw
 - 3. Seleccionar  el  destino  o  carpeta  donde  los  diagramas  serán  almacenados  (seleccionar  la opción de su preferencia).
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo18.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo18.png" alt="Representación" width="75%"></p>
 
 - 4. Seleccionar  las  opciones  correspondientes  para  crear  un  nuevo  diagrama.  Seleccionar  la categoría Entity Relationship.  Hacer click en “Create”
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo19.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo19.png" alt="Representación" width="75%"></p>
 
 - 5. Observar que aparece una interfaz gráfica similar a la siguiente figura:
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo20.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo20.png" alt="Representación" width="75%"></p>
 
 - 6. Observar el menú **Scratchpad**.   La primera vez que se accede al sitio aparecerá vacío. Este menú permite agregar formas personalizadas que permitirán agilizar el diseño de modelos ER.   Para realizar la carga de los elementos de modelado, hacer clic en el ícono del lápiz.
 
@@ -204,19 +204,19 @@ Aparecerá un cuadro de diálogo.  Seleccionar la opción Import.
 - 7. Importar el archivo de formas `elementos-er.xml` descargado en pasos anteriores.  Seguir los pasos en pantalla.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo21.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo21.png" alt="Representación" width="75%"></p>
 
 - 8.  Al  terminar  la  carga  del  archivo  se  deberán  visualizar  los  nuevos  elementos  en  el  menú “Scratchpad”.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo22.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo22.png" alt="Representación" width="75%"></p>
 
   - Observar los elementos nuevos dentro del Menú Scratchpad.  Para comenzar a emplearlos, basta con hacer click sobre ellos, o arrastrarlos hacia el área de trabajo.
 
   - Los elementos están agrupados por default. Si se requiere manipular de forma individual a sus subelementos hacer click derecho sobre el elemento y seleccionar la opción ungroup.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo23.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo23.png" alt="Representación" width="75%"></p>
 
 ---
 
@@ -233,4 +233,4 @@ En cuanto a los cursos que toman se registra la calificación en cada curso, nom
 Finalmente tienen una bitácora de las asesorías que toman los estudiantes, en la cual se tiene la fecha y un campo donde registran lo revisado en las asesorías, tienen un folio que identifica cada asesoría las cuales son personalizadas.
 
 
-<p align="center"><img src="/docs/rs/img-Previos/P4Previo24.png" alt="Representación" width="75%"></p>
+<p align="center"><img src="/docs/rs/imgPrevios/P4Previo24.png" alt="Representación" width="75%"></p>
