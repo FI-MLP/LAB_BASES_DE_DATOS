@@ -101,9 +101,9 @@ Cada unidad contiene su desarrollo conceptual independiente y un enlace separado
 ### Práctica 1: Presentación del curso
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P1/G1/Practica_1_G1.md) | [Practicas-G1](/docs/practicas/P4/G1/) [Previo-G1](/docs/previos/PrevioP4/G1/)
-    * [G2](/docs/practicas/P1/G2/Practica_1_G2.md) | [Practicas-G2](/docs/practicas/P4/G2/) [Previo-G2](/docs/previos/PrevioP4/G2/)
-    * [G3](/docs/practicas/P1/G3/Practica_1_G3.md) | [Practicas-G3](/docs/practicas/P4/G3/) [Previo-G3](/docs/previos/PrevioP4/G3/)
+    * [G1](/docs/practicas/P1/G1/Practica_1_G1.md) | [Practicas-G1](/docs/practicas/P1/G1/) [Previo-G1](/docs/previos/PrevioP1/G1/)
+    * [G2](/docs/practicas/P1/G2/Practica_1_G2.md) | [Practicas-G2](/docs/practicas/P1/G2/) [Previo-G2](/docs/previos/PrevioP1/G2/)
+    * [G3](/docs/practicas/P1/G3/Practica_1_G3.md) | [Practicas-G3](/docs/practicas/P1/G3/) [Previo-G3](/docs/previos/PrevioP1/G3/)
 
 ### Práctica 2: Entorno de trabajo
 * Desarrollo Teórico | Ejercicios
