@@ -182,7 +182,7 @@ Cada unidad contiene su desarrollo conceptual independiente y un enlace separado
 ### Práctica 11: Álgebra relacional y uso de join básico
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G1](/docs/practicas/P11y12/G1/Practica_P11y12_G1.md) [Previo-G1](/docs/previos/PrevioP11/G1/Practica11PrevioG3.md)
+    * [G1](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G1](/docs/practicas/P11y12/G1/Practica_P11y12_G1.md) [Previo-G1](/docs/previos/PrevioP11/G1/Practica11PrevioG1.md)
     * [G2](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G2](/docs/practicas/P11y12/G2/Practica_P11y12_G2.md) [Previo-G2](/docs/previos/PrevioP11/G2/Practica11PrevioG2.md)
     * [G3](/docs/practicas/P11y12/Desarrollo_Teorico_P11y12.md) | [Practicas-G3](/docs/practicas/P11y12/G3/Practica_P11y12_G3.md) [Previo-G3](/docs/previos/PrevioP11/G3/Practica11PrevioG3.md)
 
