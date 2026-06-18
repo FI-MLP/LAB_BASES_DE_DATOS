@@ -27,7 +27,7 @@ El alumno reafirmará los conocimientos adquiridos para realizar la elaboración
 A partir de los diseños conceptuales realizados en la práctica anterior, realizar ahora el **diseño lógico** a través de la construcción de un **modelo relacional con notación Crow's Foot** del caso de estudio Compañía Aérea.
 
 <p align="center">
-  <img src="/docs/rs/P7MERCompaniaAerea.png" alt="MER Compañía Aérea - Práctica 07" width="90%">
+  <img src="/docs/rs/imgPracticas/P7-1.png" alt="MER Compañía Aérea - Práctica 07" width="90%">
 </p>
 
 
