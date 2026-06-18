@@ -30,11 +30,24 @@ Antes de iniciar con la práctica, realizar, revisar y calificar las actividades
 ---
 
 ## 1.3. Diseño lógico de una base de datos
+A partir del diseño conceptual presentado, realizar ahora el diseño lógico a través de la construcció de un modelo relacional con notación Crow’s Foot.
 
+A) El siguiente corresponde al modelo entidad relación de un centro de computo
+
+
+<p align="center">
+  <img src="/docs/rs/imgPracticas/P5-1.png" alt="Imagen 1 P5" width="60%">
+</p>
 
 ---
 
 ## 1.4. Contenido del reporte
+
+● Elementos comunes a todas las prácticas especificados en la rúbrica correspondiente
+● C1. Imagen del modelo realizado en clase.
+● C2. Versión final del modelo
+● C2. Borrador con revisiones y anotaciones del modelo realizado en clase.
+
 
 ---
 
