@@ -23,12 +23,13 @@ Documentación oficial derivada del [syllabus](docs/rs/files/Syllabus.md) del cu
 ---
 
 ## Materia de la Clase
-* [Nomenclatura MER y Relacional]()
+* [Nomenclatura MER y Relacional](/docs/rs/files/Nomenclatura%20modelo%20ER%20y%20ralacional.pdf)
 * [Libros de consulta](/docs/rs/files/LibrosConsulta/)
-* [Dia]()
-* [ER Studio]()
-* [ERWIN]()
-* [VS-CODE]()
+* [Dia](/docs/rs/files/Dia/)
+* [ER Studio](/docs/rs/files/ER%20Studio/)
+* [ERWIN](/docs/rs/files/ERWIN/)
+* [VS-CODE](/docs/rs/files/VSCODE/)
+* [SQL](/docs/rs/files/SQL/)
 
 
 ---
