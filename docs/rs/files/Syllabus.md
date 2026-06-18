@@ -36,7 +36,7 @@ Esta asignatura tiene como objetivo principal practicar el uso de la tecnología
 Denominación de la asignatura: Laboratorio de Bases de Datos 1644, sexto semestre plan 2023.
 
 <p align="center">
-  <img src="rs/mapaCurricular.png" alt="Mapa Curricular" width="60%">
+  <img src="/LAB_BASES_DE_DATOS/docs/rs/imgPracticas/mapaCurricular.png" alt="Mapa Curricular" width="60%">
 </p>
 
 ---
