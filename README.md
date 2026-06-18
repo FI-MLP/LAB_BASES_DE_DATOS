@@ -108,16 +108,16 @@ Cada unidad contiene su desarrollo conceptual independiente y un enlace separado
 ### Práctica 2: Entorno de trabajo
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P2/G1/Practica_2_G1.md) | [Practicas-G1](/docs/practicas/P4/G1/) [Previo-G1](/docs/previos/PrevioP4/G1/)
-    * [G2](/docs/practicas/P2/G2/Practica_2_G2.md) | [Practicas-G2](/docs/practicas/P4/G2/) [Previo-G2](/docs/previos/PrevioP4/G2/)
-    * [G3](/docs/practicas/P2/G3/Practica_2_G3.md) | [Practicas-G3](/docs/practicas/P4/G3/) [Previo-G3](/docs/previos/PrevioP4/G3/)
+    * [G1](/docs/practicas/P2/G1/Practica_2_G1.md) | [Practicas-G1](/docs/practicas/P2/G1/) [Previo-G1](/docs/previos/PrevioP2/G1/)
+    * [G2](/docs/practicas/P2/G2/Practica_2_G2.md) | [Practicas-G2](/docs/practicas/P2/G2/) [Previo-G2](/docs/previos/PrevioP2/G2/)
+    * [G3](/docs/practicas/P2/G3/Practica_2_G3.md) | [Practicas-G3](/docs/practicas/P2/G3/) [Previo-G3](/docs/previos/PrevioP2/G3/)
 
 ### Práctica 3: Lenguaje de control de acceso a Datos (DCL)
 * Desarrollo Teórico | Ejercicios
     
-    * [G1](/docs/practicas/P3/G1/Practica_3_G1.md) | [Practicas-G1](/docs/practicas/P4/G1/) [Previo-G1](/docs/previos/PrevioP4/G1/)
-    * [G2](/docs/practicas/P3/G2/Practica_3_G2.md) | [Practicas-G2](/docs/practicas/P4/G2/) [Previo-G2](/docs/previos/PrevioP4/G2/)
-    * [G3](/docs/practicas/P3/G3/Practica_3_G3.md) | [Practicas-G3](/docs/practicas/P4/G3/) [Previo-G3](/docs/previos/PrevioP4/G3/)
+    * [G1](/docs/practicas/P3/G1/Practica_3_G1.md) | [Practicas-G1](/docs/practicas/P3/G1/) [Previo-G1](/docs/previos/PrevioP3/G1/)
+    * [G2](/docs/practicas/P3/G2/Practica_3_G2.md) | [Practicas-G2](/docs/practicas/P3/G2/) [Previo-G2](/docs/previos/PrevioP3/G2/)
+    * [G3](/docs/practicas/P3/G3/Practica_3_G3.md) | [Practicas-G3](/docs/practicas/P3/G3/) [Previo-G3](/docs/previos/PrevioP3/G3/)
 
 ### Práctica 4: Modelos básicos E/R con notación Chen y herramienta CASE
 * Desarrollo Teórico | Ejercicios
