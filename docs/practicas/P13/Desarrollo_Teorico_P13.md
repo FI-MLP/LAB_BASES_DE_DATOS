@@ -53,12 +53,12 @@ JOIN tabla2
 ON condicion_de_combinacion;
 ```
 <p align="center">
-  <img src="/docs/rs/img-Practicas/P13innerjoin.png" alt="Diagrama de Inner Join" width="60%">
+  <img src="/docs/rs/imgPracticas/DP13-1.png" alt="Diagrama de Inner Join" width="60%">
 </p>
 
 **Ejemplo:**
 <p align="center">
-  <img src="/docs/rs/img-Practicas/P13Ejemplo1.png" alt="Ejemplo 1" width="60%">
+  <img src="/docs/rs/imgPracticas/DP13-2.png" alt="Ejemplo 1" width="60%">
 </p>
 
 ```sql
@@ -95,7 +95,7 @@ LEFT JOIN tabla_derecha
 ON condicion;
 ```
 <p align="center">
-  <img src="/docs/rs/img-Practicas/P13Leftjoin.png" alt="Diagrama de Left Join" width="60%">
+  <img src="/docs/rs/imgPracticas/DP13-3.png" alt="Diagrama de Left Join" width="60%">
 </p>
 
 **Ejemplo:** obtener el título y el nombre de la editorial:
@@ -123,7 +123,7 @@ Los títulos cuyo código de editorial no está presente en `editoriales` aparec
 Selecciona **todas las filas de la tabla derecha**, sin importar si tienen o no coincidencia en la tabla izquierda.
 
 <p align="center">
-  <img src="/docs/rs/img-Practicas/P13RigthJoin.png" alt="Diagrama de Rigth Join" width="60%">
+  <img src="/docs/rs/imgPracticas/DP13-4.png" alt="Diagrama de Rigth Join" width="60%">
 </p>
 
 ```sql
@@ -159,7 +159,7 @@ Las editoriales que no tienen un libro asociado aparecen en el resultado, pero c
 Combina los resultados de ambas tablas, tengan o no coincidencia entre sí.
 
 <p align="center">
-  <img src="/docs/rs/img-Practicas/P13Fulljoin.png" alt="Diagrama de Full Join" width="60%">
+  <img src="/docs/rs/imgPracticas/DP13-5.png" alt="Diagrama de Full Join" width="60%">
 </p>
 
 ```sql
