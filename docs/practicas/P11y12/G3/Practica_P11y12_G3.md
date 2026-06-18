@@ -389,7 +389,7 @@ HAVING AVG(salario)>2000;
 En base al modelo anterior, realice lo que se pide:
 
 <p align="center">
-  <img src="/docs/rs/Practica11y12Imagen2.png" alt="Modelo entidad-relación - DUEÑO, INMUEBLE, SERVICIO, PAGO, etc." width="85%">
+  <img src="/docs/rs/imgPracticas/P11y12-2.png" alt="Modelo entidad-relación - DUEÑO, INMUEBLE, SERVICIO, PAGO, etc." width="85%">
 </p>
 
 **A) Exprese en algebra relacional y SQL los siguientes enunciados:**
