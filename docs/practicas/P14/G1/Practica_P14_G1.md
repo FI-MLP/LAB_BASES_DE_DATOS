@@ -28,7 +28,7 @@ El alumno comprenderá los principales conceptos, así como la estructura básic
 En base al modelo siguiente, realice lo que se pide:
 
 <p align="center">
-  <img src="/docs/rs/Practica14Imagen1.png" alt="Modelo entidad-relación - DUEÑO, INMUEBLE, SERVICIO, PAGO, etc." width="85%">
+  <img src="/docs/rs/imgPracticas/P14-1.png" alt="Image P14" width="85%">
 </p>
 
 **A. Procedimientos almacenados.**
@@ -46,13 +46,6 @@ b) Verificar que el dueño nuevo no se esté recomendando a sí mismo.
 c) Si se cumplen las condiciones, actualizar la columna ID_DUEÑO_RECOMENDO.
 d) Devolver `@EstadoProceso` ('OK' o 'ERROR') como parámetro de salida.
 
-<p align="center">
-  <img src="/docs/rs/Practica14Imagen2.png" alt="Evidencia store procedure ActualizarPrecioInmueble" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica14Imagen3.png" alt="Evidencia store procedure AsignarRecomendado" width="85%">
-</p>
 
 **B. Triggers.**
 
@@ -60,13 +53,6 @@ d) Devolver `@EstadoProceso` ('OK' o 'ERROR') como parámetro de salida.
 
 **II.** Crear un trigger que al insertar un PAGO el monto sea mayor que cero y la fecha de pago sea mayor a la fecha de compra
 
-<p align="center">
-  <img src="/docs/rs/Practica14Imagen4.png" alt="Evidencia trigger DATOS_VENTA" width="85%">
-</p>
-
-<p align="center">
-  <img src="/docs/rs/Practica14Imagen5.png" alt="Evidencia trigger PAGO" width="85%">
-</p>
 
 > **Nota:** puede mover el valor de las condiciones si fuera necesario, ya que no se aceptan ejercicios sin resultado (registros) de las consultas
 
