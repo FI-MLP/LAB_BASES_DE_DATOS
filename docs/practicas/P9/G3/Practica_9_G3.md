@@ -55,9 +55,6 @@ EXEC sp_help 'dbo.empresa';
 GO
 ```
 
-<p align="center">
-  <img src="/docs/rs/Practica9Imagen1.png" alt="Estructura de tablas - sp_help dbo.empresa" width="85%">
-</p>
 
 8. Realizar operaciones restringidas, en cascada y puesta en nulo **REALIZAR CON PROFESORA**
 
@@ -96,10 +93,6 @@ select * from dbo.articulo
 -- IMAGEN DEL ANTES
 ```
 
-<p align="center">
-  <img src="/docs/rs/Practica9Imagen2.png" alt="Imagen del antes - factura y articulo" width="85%">
-</p>
-
 ```sql
 /*UPDATE*/
  UPDATE dbo.factura set idFactura = 3 WHERE descripcion = 'uno'
@@ -109,9 +102,6 @@ select * from dbo.factura
 select * from dbo.articulo
 ```
 
-<p align="center">
-  <img src="/docs/rs/Practica9Imagen3.png" alt="Imagen del después - UPDATE factura" width="85%">
-</p>
 
 ```sql
 /*DELETE*/
@@ -124,9 +114,6 @@ select * from dbo.articulo
 -- IMAGEN DEL DESPUES
 ```
 
-<p align="center">
-  <img src="/docs/rs/Practica9Imagen4.png" alt="Imagen antes y después - DELETE factura" width="85%">
-</p>
 
 ```sql
 /* Borrar la tabla factura */
@@ -144,9 +131,6 @@ DROP TABLE factura;
 SELECT * FROM INFORMATION_SCHEMA.TABLES
 ```
 
-<p align="center">
-  <img src="/docs/rs/Practica9Imagen5.png" alt="Resultado begin tran y rollback tran" width="85%">
-</p>
 
 ---
 
