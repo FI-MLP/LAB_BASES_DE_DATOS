@@ -24,7 +24,7 @@ Documentación oficial derivada del [syllabus](docs/rs/files/Syllabus.md) del cu
 
 ## Materia de la Clase
 * [Nomenclatura MER y Relacional]()
-* [Libros de consulta]()
+* [Libros de consulta](/LAB_BASES_DE_DATOS/docs/rs/files/LibrosConsulta/)
 * [Dia]()
 * [ER Studio]()
 * [ERWIN]()
