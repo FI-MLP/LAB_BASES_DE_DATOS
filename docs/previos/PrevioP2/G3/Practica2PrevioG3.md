@@ -52,7 +52,7 @@ Una **instancia** del Motor de base de datos es una copia del archivo ejecutable
 Una **base de datos** es una colección de datos almacenados de manera organizada para su uso posterior. Está formada por todos los archivos físicos en los que se encuentran los datos finales del usuario, así como a otro conjunto de datos que describen a los datos finales llamados metadatos, o típicamente, el diccionario de datos. Tanto los datos finales como el diccionario de datos se almacenan en archivos llamados **data files**.
 
 <p align="center">
-  <img src="/docs/rs/P2Previo1.png" alt="Conexion SQL Server" width="75%">
+  <img src="/docs/rs/imgPrevios/P2Previo1.png" alt="Conexion SQL Server" width="75%">
 </p>
 
 Un **diccionario de datos** es el esquema de la base de datos, documenta los metadatos más ligados a su almacenamiento en la base de datos. Es decir, incluye aspectos técnicos como el tipo de dato, formato, longitud, posibles valores que puede tomar e, incluso, transformaciones sufridas, sin olvidar la definición de cada campo.
