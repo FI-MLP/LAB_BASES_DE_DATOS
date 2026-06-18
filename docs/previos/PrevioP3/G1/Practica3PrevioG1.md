@@ -108,7 +108,7 @@ WITH PASSWORD = 'password';
 Los inicios de sesión se encuentran en la carpeta Login de la carpeta Security
 
 <p align="center">
-  <img src="/docs/rs/P3Previo1.png" alt="Creación Usuario" width="75%">
+  <img src="/docs/rs/imgPrevios/P3Previo1.png" alt="Creación Usuario" width="75%">
 </p>
 
 **Nota:** Los ejercicios deben realizarse en el servidor de la facultad. Utilizar el usuario: **usr_labbd.**
@@ -129,20 +129,20 @@ Entrar a SQL Server 2022 con el inicio de sesión creado anteriormente
 
 
 <p align="center">
-  <img src="/docs/rs/P3Previo2.png" alt="Creación Usuario" width="75%">
+  <img src="/docs/rs/imgPrevios/P3Previo2.png" alt="Creación Usuario" width="75%">
 </p>
 
 **C1. Coloque evidencia de la conexión con su login creado. Ejemplo en la siguiente imagen**
 
 
 <p align="center">
-  <img src="/docs/rs/P3Previo3.png" alt="Creación Usuario" width="75%">
+  <img src="/docs/rs/imgPrevios/P3Previo3.png" alt="Creación Usuario" width="75%">
 </p>
 
 Hacer doble clic sobre cualquier base de datos y obtendremos la siguiente ventana:
 
 <p align="center">
-  <img src="/docs/rs/P3Previo4.png" alt="Creación Usuario" width="75%">
+  <img src="/docs/rs/imgPrevios/P3Previo4.png" alt="Creación Usuario" width="75%">
 </p>
 
 Esto ocurre porque el login creado tiene acceso al servidor, pero a ninguna base de datos, para ello hay que crear un usuario en alguna base de datos.
@@ -230,12 +230,12 @@ Otro concepto comúnmente empleado en este contexto es el concepto de Rol. Un ro
 
 
 <p align="center">
-  <img src="/docs/rs/P3Previo5.png" alt="Creación Usuario" width="75%">
+  <img src="/docs/rs/imgPrevios/P3Previo5.png" alt="Creación Usuario" width="75%">
 </p>
 
 
 <p align="center">
-  <img src="/docs/rs/P3Previo6.png" alt="Creación Usuario" width="75%">
+  <img src="/docs/rs/imgPrevios/P3Previo6.png" alt="Creación Usuario" width="75%">
 </p>
 
 - Crear un rol
