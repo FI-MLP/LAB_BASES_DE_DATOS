@@ -149,19 +149,16 @@ Draw.io es una aplicación desarrollada por Google que permite realizar una gran
 
 - Seleccionar el destino donde será almacenado el diagrama, de preferencia en Drive
 
-<p align="center">
-  <img src="docs/rs/imPracticas/P2Explorador1.png" alt="Explorador 1 Draw.io" width="75%">
-</p>
+![I_P2_1](docs/rs/imgPracticas/P2Explorador1.png)
 
 - Seleccionar la categoría Entity Relationship Diagram para crear un nuevo diagrama. Hacer click en “Create
 
-src="https://github.com/FI-MLP/LAB_BASES_DE_DATOS/blob/main/docs/rs/imgPracticas/P2Explorador1.png"
+![I_P2_2](docs/rs/imgPracticas/P2Explorador2.png)
 
 - Aparecerá una interfaz como la siguiente figura:
 
-<p align="center">
-  <img src="docs/rs/imgPracticas/P2Explorador3.png" alt="Explorador 3 Draw.io" width="75%">
-</p>
+![I_P2_3](docs/rs/imgPracticas/P2Explorador3.png)
+
 
 - Observar el menú Scratchpad. Este menú permite agregar formas personalizadas que permitirán agilizar el diseño de modelos ER. Para realizar la carga de los elementos de modelado, hacer clic en el ícono del lápiz. Aparecerá un cuadro de diálogo. Seleccionar la opción Import.
 
@@ -169,9 +166,8 @@ src="https://github.com/FI-MLP/LAB_BASES_DE_DATOS/blob/main/docs/rs/imgPracticas
 
 - Generar un diagrama similar al siguiente, agregar los atributos faltantes.
 
-<p align="center">
-  <img src="/docs/rs/P2Explorador4.png" alt="Explorador 4 Draw.io" width="75%">
-</p>
+![I_P2_4](docs/rs/imgPracticas/P2Explorador4.png)
+
 
 **C5. Incluir en el reporte** el o los archivos de los diagramas generados además de la imagen. Ya sea en dia o draw.io.
 
