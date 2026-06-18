@@ -22,6 +22,17 @@ Documentación oficial derivada del [syllabus](docs/rs/files/Syllabus.md) del cu
 
 ---
 
+## Materia de la Clase
+* [Nomenclatura MER y Relacional]()
+* [Libros de consulta]()
+* [Dia]()
+* [ER Studio]()
+* [ERWIN]()
+* [VS-CODE]()
+
+
+---
+
 
 
 ## Calendario de Prácticas Grupo # .- Día 
