@@ -174,7 +174,7 @@ Las condiciones de búsqueda se agrupan en distintos contrastes: comparación, r
 Calcula y compara los valores de dos expresiones SQL, utilizando los operadores de comparación (=, <>, <,>, <=,>=).
 
 <p align="center">
-  <img src="/docs/rs/Practica11y12Imagen1.png" alt="Diagrama de tablas DEPARTAMENTO y EMPLEADO" width="85%">
+  <img src="/docs/rs/imgPracticas/P11y12-1.png" alt="Diagrama de tablas DEPARTAMENTO y EMPLEADO" width="85%">
 </p>
 
 **EJEMPLO 1.** Obtener información de los departamentos que se encuentran ubicados en la ciudad de NEW YORK:
